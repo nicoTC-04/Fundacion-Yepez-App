@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Whirpool</string>
+    <string name="google_map_api_key">AIzaSyDmlQhWhzZKeJ5QZ1JuvLB37m7OtFbm6kg</string>
+    <string name="liverpool_valle_oriente">Liverpool, valle oriente</string>
+    <string name="san_pedro">San pedro</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="subir_imagen">SUBIR IMAGEN</string>
+    <string name="tomar_foto">Tomar FOTO</string>
+    <string name="log_out">Log Out</string>
+    <string name="hola_usuario">Hola! Nicolas Treviño</string>
+    <string name="mis_puntos">⭐ Mis Puntos</string>
+    <string name="_0">0</string>
+    <string name="mis_reportes">📂 Mis Reportes</string>
+    <string name="eventos_header">Eventos cercanos a ti!</string>
+
+    <string name="capturar_y_reportar_anomalia">Nivel de Ph bueno en 8.0</string>
+    <string name="capturar_y_reportar_anomalia_65">Nivel de Ph dañino en 6.5</string>
+    <string name="capturar_y_reportar_anomalia_70">Nivel de Ph dañino en 7.0</string>
+    <string name="capturar_y_reportar_anomalia_75">Nivel de Ph bueno en 7.5</string>
+    <string name="capturar_y_reportar_anomalia_80">Nivel de Ph bueno en 8.0</string>
+    <string name="capturar_y_reportar_anomalia_85">Nivel de Ph bueno en 8.5</string>
+    <string name="capturar_y_reportar_anomalia_90">Nivel de Ph bueno en 9.0</string>
+
+    <string name="_1">1.</string>
+    <string name="puntos">Puntos</string>
+    <string name="reportes">Reportes:</string>
+    <string name="nicolas_trevi_o">Nicolas Treviño</string>
+    <string name="_2">2.</string>
+    <string name="_3">3.</string>
+    <string name="_4">4.</string>
+    <string name="_5">5.</string>
+    <string name="entrar">Entrar</string>
+</resources>
